@@ -1,5 +1,5 @@
 // import React, { Component } from 'react';
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import FeedbackClick from './FeedbackClick/FeedbackClick';
 import Statistics from './Statistics/Statistics';
 import Section from './Section/Section';
